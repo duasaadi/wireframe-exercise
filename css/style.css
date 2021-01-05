@@ -1,0 +1,34 @@
+
+nav ul li{
+display: inline;
+}
+
+
+
+
+
+section div img{
+    width: 23%;
+}
+
+section:nth-child(3) {
+    background-color: blanchedalmond;
+}
+
+
+section:nth-child(4) {
+    width : 50% ;
+    background-color:red;
+}
+
+
+
+/* div{
+    background-color: red;
+    width: 110px;
+    height: 110px;
+    overflow: auto;
+  } 
+ */
+
+ 
